@@ -1,7 +1,17 @@
 # mac_changer-linux
 V0.1
+
+## how to run
+
+        ./macchanger
+
+
+
 ## python3, ifconfig
 site : https://github.com/aakashpadhiyar/mac_changer-linux
+
+
+
 
 # support :
 
