@@ -3,6 +3,8 @@ V0.1
 
 ## how to run
 
+        chmod +x macchanger
+        
         ./macchanger
 
 
